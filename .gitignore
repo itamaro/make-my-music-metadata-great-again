@@ -103,3 +103,4 @@ ENV/
 # app specific
 .cache
 .status
+ignorelist
